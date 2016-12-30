@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">CareerInfo</string>
+    <string name="app_name">CareerInfo.pk</string>
+    <string name="enter_User_Name">Enter User Name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_Password">Enter Password</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_linkedin">Login with LinkedIn</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register_now">Register Now</string>
+    <string name="Donot_have_account">Don\'t have an account yet?</string>
 </resources>
